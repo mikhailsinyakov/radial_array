@@ -1,0 +1,19 @@
+schema_version = "1.0.0"
+
+id = "easy_radial_array"
+version = "1.0.0"
+name = "Radial Array"
+tagline = "Instantly add a procedural radial array modifier to any mesh"
+maintainer = "Mikhail3D"
+type = "add-on"
+website = "https://mikhail3d.gumroad.com/l/radial_array"
+
+# The minimum required Blender version
+blender_version_min = "4.2.0"
+
+# The license (Blender Extensions must be GPL)
+license = [
+    "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Modeling", "Geometry Nodes"]
